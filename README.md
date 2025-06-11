@@ -52,9 +52,9 @@ Configure your application.properties:
 properties
 Copy
 Edit
-spring.datasource.url=jdbc:mysql://localhost:3306/hospitaldb
+spring.datasource.url=jdbc:mysql://localhost:3306/hospitalmng
 spring.datasource.username=root
-spring.datasource.password=yourpassword
+spring.datasource.password=root123
 spring.jpa.hibernate.ddl-auto=update
 Start the Spring Boot Application
 
